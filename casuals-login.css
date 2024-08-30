@@ -1,0 +1,28 @@
+.logo{
+    font-family: Arial;
+
+        margin: 0;
+        padding: 0;
+        height: 200vh;
+        background-image: url('High\ End\ Private\ Custom\ Clothing\ Store\ Posters\ Clothing\ Design\ Poster\ Back\ Background\ Wallpaper\ Image\ For\ Free\ Download\ -\ Pngtree.jfif');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;    
+}
+.container-fluid{
+    justify-content: left;
+    margin-left: 700px;
+    
+}
+.logotext{
+    cursor: context-menu;
+    font-family: cursive;
+}
+.d-inline-block align-text-top{
+    margin-left: 0%;
+    margin-right: 400px;
+}
+.navbar-brand{
+    margin-left: 40px;
+    border-radius: 7px;
+}

@@ -1,0 +1,17 @@
+
+.h{
+    
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        background-image: url('Wholesale A-Line Satin Floor Length Prom Dress Elegant Short Sleeve Evening Party Dress - US 6 _ UK 10 _ EU 36.jfif');
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-size: cover;
+        background-attachment: fixed;
+        word-break: break-word;  
+        overflow: hidden; 
+    }
+    .nav-link active{
+        border: solid 1px black;
+    }
